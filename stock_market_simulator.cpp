@@ -1,9 +1,5 @@
 /*                        
-                        ***** OOCP PROJECT STOCK MARKET SIMULATION *****
-							Authors : Param Patel       IU2041050086
-									  Param Suthar      IU2041050128
-									  Dhruvan Vagadiya  IU2041050134
-									  Krina Thesia      TIU2141051779
+                        ***** CPP PROJECT STOCK MARKET SIMULATION *****
 */
 #include <iostream>
 #include <fstream>
